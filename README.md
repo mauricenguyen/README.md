@@ -21,4 +21,5 @@ Some key goals of mine are to finally graduate as this is my final semester and 
 # 🌐 Connect with me!
 
 Linkedin: https://www.linkedin.com/in/mauricenguyen12/ 
+
 Resume: [Maurice_Nguyen_Resume 2024.pdf](https://github.com/user-attachments/files/16718392/Maurice_Nguyen_Resume.2024.pdf)
